@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <Username>stefan</Username>
+    <Password>123456</Password>
+    <Images>
+      <Image>
+        <ValidationErrors />
+        <IsValid>true</IsValid>
+        <Uri>C:\Users\GornHunter\Desktop\taxi-logo.jpg</Uri>
+        <Title>hello</Title>
+        <Description>asdasdsa</Description>
+        <Time>2019-02-09T17:34:37.3093382+01:00</Time>
+      </Image>
+      <Image>
+        <ValidationErrors />
+        <IsValid>true</IsValid>
+        <Uri>C:\Users\GornHunter\Desktop\taxi-logo.jpg</Uri>
+        <Title>jdfjdjsd</Title>
+        <Description>msdkfskf</Description>
+        <Time>2019-02-09T17:35:08.5440086+01:00</Time>
+      </Image>
+    </Images>
+  </User>
+  <User>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <Username>stefan</Username>
+    <Password>123456</Password>
+    <Images />
+  </User>
+  <User>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <Username>hgj</Username>
+    <Password>123456</Password>
+    <Images />
+  </User>
+</ArrayOfUser>
